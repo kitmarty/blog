@@ -17,7 +17,7 @@ title: Dev Blog / ARIS / BPM
 # email: nikita.martyanov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   It's my personal blog, where I post information about ARIS solutions and workarounds
-  I managed to find. I decided to start the blog because my experince could be usefull
+  I managed to find. I decided to start the blog because my experince could be useful
   for people who are not deep dived in ARIS programming.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kitmarty.com/blog" # the base hostname & protocol for your site, e.g. http://example.com
