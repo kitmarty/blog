@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dev Blog / ARIS / BPM
-email: nikita.martyanov@gmail.com
+# email: nikita.martyanov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   It's my personal blog, where I post information about ARIS solutions and workarounds
   I managed to find. I decided to start the blog because my experince could be usefull
