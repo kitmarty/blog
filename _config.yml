@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dev Blog / ARIS / BPM
+title: ARIS Solutions and Workarounds
 # email: nikita.martyanov@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   It's my personal blog, where I post information about ARIS solutions and workarounds
@@ -28,9 +28,12 @@ BASE_PATH : https://kitmarty.com/blog
 
 # twitter_username: jekyllrb
 github_username:  kitmarty
+linkedin_username:  nikita-martyanov
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+  
 theme: minima
 plugins:
   - jekyll-feed
