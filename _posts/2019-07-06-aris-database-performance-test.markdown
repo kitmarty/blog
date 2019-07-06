@@ -44,7 +44,7 @@ I ran each test three times and below in the table the average execution time is
 
 *there can be some inaccuracies in the time data because of the mode difference and their approaches of working with DB. Nevertheless total time is accurate.*
 
-As you can see execution time decreases by <span style="color:green; font-weight:bold">65%</span> percent when we use `SAVE_ONDEMAND` mode. And this result we got on an empty database. I suppose it will be much more effective, when a database has a lot of objects inside.
+As you can see execution time decreases by <span style="color:green; font-weight:bold">65%</span> percent when we use `SAVE_ONDEMAND` mode in comparison with `SAVE_AUTO` mode. And this result we got on an empty database. I suppose it will be much more effective, when a database has a lot of objects inside.
 
 And time extremely increases by <span style="color:red; font-weight:bold">81%</span> when we use `SAVE_IMMEDIATELY` mode. This mode is effective only if we want to write changes in a database right after the execution of a particular command in the script.
 
