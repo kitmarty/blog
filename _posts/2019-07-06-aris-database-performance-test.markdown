@@ -20,7 +20,7 @@ To change the mode we can use `ArisData` object:
 ArisData.Save(Constants.SAVE_ONDEMAND)
 ```
 
-Some words about ARIS Database modes. The default mode is `SAVE_AUTO` as it's said in ARIS Script Help. `SAVE_ONDEMAND` mode let us to accumulate changes somewhere in the memory and don't apply them to a database until `SAVE_NOW` is called. And `SAVE_IMMEDIATELY` mode (the slowest) applies changes at once.
+Some words about ARIS Database modes. The default mode is `SAVE_AUTO` as it's said in ARIS Script Help. `SAVE_ONDEMAND` mode lets us to accumulate changes somewhere in the memory and don't apply them to a database until `SAVE_NOW` is called. And `SAVE_IMMEDIATELY` mode (the slowest) applies changes at once.
 
 To prove there's a big difference between those modes I created the test ARIS report and performed an experiment.
 I think that an absolute result may vary, it depends on the computer performance, type of DBMS and other factors. Nevertheless we can get relative results on the same machine.
