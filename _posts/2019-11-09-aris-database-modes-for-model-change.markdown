@@ -4,7 +4,7 @@ title:  "ARIS Database Modes For Model Changes"
 date:   2019-11-09 15:32:48 +0300
 categories: ARIS Reports
 ---
-To continue [previos post][prev_post] about ARIS Database modes I'd like to show another way of ARIS Database modes usage.
+To continue the [previos post][prev_post] about ARIS Database modes I'd like to show another way of ARIS Database modes usage.
 
 Sometimes when we use ARIS we need to display (print as report result) part of the model, for example, without particular symbol types or connections. The common way is to create new model (using ARIS Report), create copies of the occurrences from the source model, delete symbols we don't need and print the model. After these actions we usually delete this temporary model.
 
