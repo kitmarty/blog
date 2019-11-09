@@ -15,7 +15,7 @@ I created demo database that contains one model only. And wrote simple ARIS Repo
 Hope you'll find this material useful.
 
 ---
-Best Regards,
+Best Regards,<br>
 Nikita Martyanov
 
 [prev_post]: https://kitmarty.github.io/blog/aris/reports/2019/07/06/aris-database-performance-test.html
